@@ -1,8 +1,9 @@
 # x4cc3
 
-Cybersecurity student building tools in Python, Go, and TypeScript.
+Cybersecurity student.
+Python • Go • TypeScript
 
-## Selected work
+## Work
 - [bbagent](https://github.com/x4cc3/bbagent)
 - [nyx.ai](https://github.com/x4cc3/nyx.ai)
 - [ROP-Emporium-Solutions](https://github.com/x4cc3/ROP-Emporium-Solutions)
