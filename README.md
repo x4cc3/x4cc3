@@ -12,6 +12,6 @@ Python • Go • TypeScript
 
 ## Passion
 - Cybersecurity
-- System internals
+- Vibe Coding
 - AI Automation
 - Researching new stuff 
