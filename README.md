@@ -3,7 +3,7 @@
 Cybersecurity student.
 Python • Go • TypeScript
 
-## Work
+## Repo of something i done 
 - [bbagent](https://github.com/x4cc3/bbagent)
 - [nyx.ai](https://github.com/x4cc3/nyx.ai)
 - [ROP-Emporium-Solutions](https://github.com/x4cc3/ROP-Emporium-Solutions)
